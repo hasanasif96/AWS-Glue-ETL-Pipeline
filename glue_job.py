@@ -19,7 +19,6 @@ source_df = glueContext.create_dynamic_frame.from_catalog(
 )
 
 # Perform transformations
-# Example transformation: Convert data types, filter rows, etc.
 transformed_df = source_df.apply_mapping([
     ("source_column", "string", "target_column", "int"),
     # Add more transformations as needed
