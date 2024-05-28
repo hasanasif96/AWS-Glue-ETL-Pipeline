@@ -32,4 +32,5 @@ glueContext.write_dynamic_frame.from_jdbc_conf(
     redshift_tmp_dir="s3://your-temporary-s3-bucket/temp"
 )
 
+
 job.commit()
