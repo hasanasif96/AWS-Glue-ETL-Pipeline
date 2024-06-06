@@ -1,6 +1,7 @@
  # AWS Glue ETL Pipeline for Batch Processing from S3 to Redshift
 
 This project sets up an ETL (Extract, Transform, Load) pipeline using AWS Glue for batch processing data from Amazon S3 to Amazon Redshift.
+
 ## Overview
 
 The ETL pipeline consists of the following components:
