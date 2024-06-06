@@ -10,3 +10,4 @@ The ETL pipeline consists of the following components:
 2. **AWS Glue Connection**: A connection between Glue and Redshift to facilitate data transfer.
 3. **AWS Glue Crawler**: A Glue crawler to automatically discover the schema of the data stored in S3.
 4. **AWS Redshift Cluster**: An Amazon Redshift cluster for storing the processed data.
+   
